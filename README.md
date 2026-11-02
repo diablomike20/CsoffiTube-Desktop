@@ -1,15 +1,15 @@
 # CsoffiTube Desktop
 
-This repo only contains the desktop releases. Source code and mobile version can be found at https://github.com/diablomike20/CsoffiTube. Please report feature requests and bugs there.
+Ez a repository kizárólag a desktop kiadásokhoz tartozik. A forráskód és a mobil változat itt érhető el: https://github.com/diablomike20/CsoffiTube
 
-Download installers from GitHub.
+Letöltés: közvetlenül a GitHub Release oldalról.
 
 [<img src="https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github"
-      alt="Get it on GitHub"
+      alt="GitHub Releases"
       hspace="16"
       height="50">](https://github.com/diablomike20/CsoffiTube-Desktop/releases/latest)
 
-## Screenshots
+## Képernyőképek
 
 <img src="metadata/screenshots/1.png" alt="youtube-music">
 <img src="metadata/screenshots/2.png" alt="youtube">
